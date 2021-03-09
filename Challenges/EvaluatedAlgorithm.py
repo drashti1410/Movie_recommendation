@@ -4,7 +4,7 @@ Created on Thu May  3 10:45:33 2018
 
 @author: Frank
 
-made by drashti and saumik
+made by drashti and saumik and both
 """
 from RecommenderMetrics import RecommenderMetrics
 from EvaluationData import EvaluationData
